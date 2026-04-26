@@ -34,7 +34,7 @@ I am an aspiring Machine Learning Engineer passionate about building data-driven
 - Gain internship experience in Data Science  
 
 ## 🔗 GitHub Projects
-👉 https://github.com/yourusername/machine-learning-projects
+👉 https://github.com/rania-ahsan/machine-learning-projects
 
 ## 📫 Contact
 - Email: raniaahsan1456@gmail.com
