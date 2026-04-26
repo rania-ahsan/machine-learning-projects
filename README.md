@@ -1,19 +1,40 @@
-# machine-learning-projects
-This repository contains beginner-level machine learning projects developed using Python.
+# 👩‍💻 Rania Ahsan — Machine Learning Portfolio
 
-## Projects
-### 1. House Price Prediction
+Welcome to my GitHub profile!  
+I am an aspiring Machine Learning Engineer passionate about building data-driven solutions using Python.
+
+## 📌 About Me
+- 🎓 BS Computer Science (Virtual University of Pakistan)
+- 📊 Interested in Machine Learning & Data Science
+- 🧠 Skilled in Python and ML libraries
+- 🚀 Currently building real-world ML projects
+
+## 🧠 Projects
+### 🏠 House Price Prediction (Regression)
 - Built a Linear Regression model to predict house prices
-- Used Python, Pandas, NumPy, Scikit-learn, and Matplotlib
-- Performed data preprocessing and model evaluation
+- Used Pandas, NumPy, Scikit-learn, and Matplotlib
+- Evaluated model using MAE and RMSE
 
-### 2. Customer Segmentation
+### 👥 Customer Segmentation (Clustering)
 - Applied K-Means Clustering for unsupervised learning
 - Grouped customers based on income and spending behavior
 - Visualized clusters using Matplotlib
 
-## Tools Used
-Python, Pandas, NumPy, Scikit-learn, Matplotlib
+## 🛠️ Tech Stack
+- Python  
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- Matplotlib  
+- Jupyter Notebook  
 
-## About Me
-Aspiring Machine Learning Engineer focused on building practical data science and AI skills.
+## 📈 Goals
+- Build advanced Machine Learning projects  
+- Learn Deep Learning and NLP  
+- Gain internship experience in Data Science  
+
+## 🔗 GitHub Projects
+👉 https://github.com/yourusername/machine-learning-projects
+
+## 📫 Contact
+- Email: raniaahsan1456@gmail.com
