@@ -24,6 +24,7 @@ I am an aspiring Machine Learning Engineer passionate about building data-driven
 - Applied K-Means Clustering for unsupervised learning
 - Grouped customers based on income and spending behavior
 - Visualized clusters using Matplotlib
+- 📓 [View notebook](customer_segmentation.py)
 
 ## 🛠️ Tech Stack
 - Python  
