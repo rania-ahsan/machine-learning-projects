@@ -10,10 +10,15 @@ I am an aspiring Machine Learning Engineer passionate about building data-driven
 - 🚀 Currently building real-world ML projects
 
 ## 🧠 Projects
-### 🏠 House Price Prediction (Regression)
-- Built a Linear Regression model to predict house prices
-- Used Pandas, NumPy, Scikit-learn, and Matplotlib
-- Evaluated model using MAE and RMSE
+### 🏠 California House Price Prediction (Regression)
+
+- Predicted median house prices for 20,640 California neighborhoods using 1990 census data
+- Compared two models: Linear Regression (baseline) and Random Forest
+- Random Forest performed best: RMSE 0.505 and R² 0.805, versus RMSE 0.746 and R² 0.576 for Linear Regression
+- Median income was the strongest predictor (about 52% of feature importance)
+- Checked for overfitting by comparing train and test error (0.188 vs 0.505)
+- Tools: Python, Pandas, Scikit-learn, Matplotlib
+- 📓 [View notebook](california_house_price_prediction.ipynb)
 
 ### 👥 Customer Segmentation (Clustering)
 - Applied K-Means Clustering for unsupervised learning
